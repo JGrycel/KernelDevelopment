@@ -1,1 +1,1 @@
-cmd_/home/debian/kernel_dev/simple_hello/hello.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/debian/kernel_dev/simple_hello/hello.ko /home/debian/kernel_dev/simple_hello/hello.o /home/debian/kernel_dev/simple_hello/hello.mod.o
+cmd_/home/debian/KernelDevelopment/simple_hello/hello.ko := ld -EL -r  -T ./scripts/module-common.lds --build-id  -o /home/debian/KernelDevelopment/simple_hello/hello.ko /home/debian/KernelDevelopment/simple_hello/hello.o /home/debian/KernelDevelopment/simple_hello/hello.mod.o

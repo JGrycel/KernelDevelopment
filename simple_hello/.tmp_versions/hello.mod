@@ -1,2 +1,2 @@
-/home/debian/kernel_dev/simple_hello/hello.ko
-/home/debian/kernel_dev/simple_hello/hello.o
+/home/debian/KernelDevelopment/simple_hello/hello.ko
+/home/debian/KernelDevelopment/simple_hello/hello.o

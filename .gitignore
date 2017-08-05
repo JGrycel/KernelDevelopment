@@ -1,0 +1,7 @@
+# Only want to include source and makefile
+*.mod.c
+*.ko
+*.o
+*.mod.o
+*.order
+*.symvers
